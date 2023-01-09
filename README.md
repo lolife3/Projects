@@ -1,2 +1,2 @@
 # Projects
-personal projects \ tests
+my projects / tests

@@ -2,6 +2,7 @@ import csv
 import random
 import sys
 
+
 class Profile():
     def __init__(self, name, level=1, rolls=1):
         self._name = name

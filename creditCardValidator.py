@@ -1,5 +1,6 @@
 # CS50x credit card validator
 
+
 def main():
     # cardNumber = 400360000000014
     while True:

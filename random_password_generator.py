@@ -1,5 +1,5 @@
 import random
-
+# NOT SECURE! USE secrets LIBRARY FOR SAFE PASSWORD
 
 def main():
     ls = [chr(i) for i in range(33, 123)]
